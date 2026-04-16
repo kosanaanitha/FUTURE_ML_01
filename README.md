@@ -18,7 +18,7 @@ To build a sales forecasting model that helps in understanding past trends and p
 - KPI indicators:
   - Total Sales
   - Average Sales
-  - 
+  
 ## 📈 Dashboard Insights
 - Sales show a steady increasing trend over time  
 - Forecast indicates continued growth in future sales  
